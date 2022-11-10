@@ -1,0 +1,1 @@
+export const PROMOTION_MULTIPLIER = 1;
